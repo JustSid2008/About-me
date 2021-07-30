@@ -1,0 +1,39 @@
+body {
+    background-color: #56056e;
+    color: #CD113B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    background-color: #FFA900;
+}
+
+a {
+    color:#FF7600;
+}
+
+.about-me {
+    display: flex;
+    align-items: center;
+}
+
+.computer-specs {
+    display: flex;
+    margin: 5px;
+    align-items: center;
+}
+
+.img {
+    display: flex;
+    margin: 16px;
+}
+
+.form-link {
+    display: flex;
+    margin-top: 50px;
+}
+
+
+a {
+    margin-left: 100px;
+}
